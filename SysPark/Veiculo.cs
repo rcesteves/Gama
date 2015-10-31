@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SysPark.View
+namespace WindowsFormsApplication1
 {
-    public partial class Frm_Tabela_Preco : Form
+    public partial class Veiculo : Form
     {
-        public Frm_Tabela_Preco()
+        public Veiculo()
         {
             InitializeComponent();
         }

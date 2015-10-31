@@ -1,6 +1,6 @@
-﻿namespace SysPark.View
+﻿namespace WindowsFormsApplication1
 {
-    partial class Frm_Tabela_Preco
+    partial class MenuInicial
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Frm_Tabela_Preco";
+            this.Text = "MenuInicial";
         }
 
         #endregion

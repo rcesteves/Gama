@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SysPark.View
+namespace WindowsFormsApplication1
 {
-    public partial class Frm_Veiculos_Tipo : Form
+    public partial class FrmInicial : Form
     {
-        public Frm_Veiculos_Tipo()
+        public FrmInicial()
         {
             InitializeComponent();
         }

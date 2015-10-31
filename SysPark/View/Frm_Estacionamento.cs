@@ -8,18 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SysPark
+namespace WindowsFormsApplication1
 {
     public partial class Frm_Estacionamento : Form
     {
-        public Frm_Estacionamento() { 
-
+        public Frm_Estacionamento()
+        {
             InitializeComponent();
         }
 
-        private void InitializeComponent()
+        private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
         {
-            throw new NotImplementedException();
+
         }
     }
 }
