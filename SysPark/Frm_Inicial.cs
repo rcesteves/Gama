@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-    public partial class Usuário : Form
+    public partial class FrmInicial : Form
     {
-        public Usuário()
+        public FrmInicial()
         {
             InitializeComponent();
         }

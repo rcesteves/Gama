@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-    public partial class Fplano : Form
+    public partial class Frm_Plano : Form
     {
-        public Fplano()
+        public Frm_Plano()
         {
             InitializeComponent();
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Fplano_Load(object sender, EventArgs e)
         {
 
         }
