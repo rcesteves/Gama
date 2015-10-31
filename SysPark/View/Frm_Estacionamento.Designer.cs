@@ -1,6 +1,6 @@
 ﻿namespace SysPark
 {
-    partial class Frm_Cadastro
+    partial class Frm_Estacionamento
     {
         /// <summary>
         /// Required designer variable.

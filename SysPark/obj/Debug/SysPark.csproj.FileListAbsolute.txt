@@ -1,1 +1,6 @@
 c:\users\suellen\documents\visual studio 2015\Projects\SysPark\SysPark\bin\Debug\SysPark.exe.config
+C:\Users\BRUNO\Source\Repos\Gama\SysPark\bin\Debug\SysPark.exe.config
+C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\SysPark.csprojResolveAssemblyReference.cache
+C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\SysPark.Frm_Principal.resources
+C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\SysPark.Properties.Resources.resources
+C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\SysPark.csproj.GenerateResource.Cache
