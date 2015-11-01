@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApplication1
 {
-    partial class Frm_Funcionario
+    partial class Usuário
     {
         /// <summary>
         /// Required designer variable.

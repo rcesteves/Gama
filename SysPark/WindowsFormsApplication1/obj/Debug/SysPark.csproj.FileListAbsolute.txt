@@ -40,24 +40,6 @@ C:\Users\BRUNO\Documents\4º Semestre S.I\PI1\SysPark\WindowsFormsApplication1\o
 C:\Users\BRUNO\Documents\4º Semestre S.I\PI1\SysPark\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frm_Funcionario.resources
 C:\Users\BRUNO\Documents\4º Semestre S.I\PI1\SysPark\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frm_Veiculo.resources
 C:\Users\BRUNO\Documents\4º Semestre S.I\PI1\SysPark\WindowsFormsApplication1\obj\Debug\SysPark.csproj.GenerateResource.Cache
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\bin\Debug\WindowsFormsApplication1.exe.config
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.exe
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.pdb
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\bin\Debug\WindowsFormsApplication1.exe
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\bin\Debug\WindowsFormsApplication1.pdb
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\SysPark.csprojResolveAssemblyReference.cache
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Frm_Caixa.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Frm_Convenio.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Frm_Estacionamento.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.FrmInicial.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Frm_Mensalista.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Frm_Plano.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Frm_Precos.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Frm_Veiculo_Marca.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Frm_Veiculo_Tipo.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Frm_Orçamento.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Frm_Funcionario.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\WindowsFormsApplication1.Frm_Veiculo.resources
-C:\Users\BRUNO\Source\Repos\Gama\SysPark\obj\Debug\SysPark.csproj.GenerateResource.Cache
+C:\Users\BRUNO\Source\Repos\Gama\SysPark\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\BRUNO\Source\Repos\Gama\SysPark\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\BRUNO\Source\Repos\Gama\SysPark\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
