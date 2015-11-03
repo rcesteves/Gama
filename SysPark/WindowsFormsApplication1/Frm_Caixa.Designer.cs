@@ -167,7 +167,7 @@
             // 
             // textBox19
             // 
-            this.textBox19.Location = new System.Drawing.Point(88, 282);
+            this.textBox19.Location = new System.Drawing.Point(88, 285);
             this.textBox19.Multiline = true;
             this.textBox19.Name = "textBox19";
             this.textBox19.Size = new System.Drawing.Size(139, 36);
@@ -175,7 +175,7 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(362, 281);
+            this.textBox3.Location = new System.Drawing.Point(362, 284);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(139, 37);
@@ -183,7 +183,7 @@
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(593, 281);
+            this.textBox4.Location = new System.Drawing.Point(593, 284);
             this.textBox4.Multiline = true;
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(139, 37);
