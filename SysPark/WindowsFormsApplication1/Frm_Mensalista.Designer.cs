@@ -91,24 +91,25 @@
             this.label28 = new System.Windows.Forms.Label();
             this.textBox24 = new System.Windows.Forms.TextBox();
             this.tabPage4 = new System.Windows.Forms.TabPage();
+            this.textBox26 = new System.Windows.Forms.TextBox();
+            this.label30 = new System.Windows.Forms.Label();
             this.dataGridView3 = new System.Windows.Forms.DataGridView();
+            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.comboBox7 = new System.Windows.Forms.ComboBox();
             this.comboBox8 = new System.Windows.Forms.ComboBox();
             this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.button2 = new System.Windows.Forms.Button();
+            this.textBox19 = new System.Windows.Forms.TextBox();
+            this.label23 = new System.Windows.Forms.Label();
             this.textBox11 = new System.Windows.Forms.TextBox();
             this.textBox22 = new System.Windows.Forms.TextBox();
             this.label14 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
             this.groupBox8 = new System.Windows.Forms.GroupBox();
-            this.label23 = new System.Windows.Forms.Label();
-            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.textBox26 = new System.Windows.Forms.TextBox();
-            this.label30 = new System.Windows.Forms.Label();
-            this.textBox19 = new System.Windows.Forms.TextBox();
-            this.dataGridView4 = new System.Windows.Forms.DataGridView();
             this.comboBox6 = new System.Windows.Forms.ComboBox();
+            this.dataGridView4 = new System.Windows.Forms.DataGridView();
             this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -116,7 +117,6 @@
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.button2 = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -214,7 +214,7 @@
             this.tabPage6.Controls.Add(this.textBox1);
             this.tabPage6.Location = new System.Drawing.Point(4, 22);
             this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Size = new System.Drawing.Size(799, 314);
+            this.tabPage6.Size = new System.Drawing.Size(799, 373);
             this.tabPage6.TabIndex = 5;
             this.tabPage6.Text = "Pesquisa";
             this.tabPage6.UseVisualStyleBackColor = true;
@@ -303,7 +303,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(799, 314);
+            this.tabPage1.Size = new System.Drawing.Size(799, 373);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Dados Pessoais";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -352,6 +352,7 @@
             // 
             // textBox4
             // 
+            this.textBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.textBox4.Location = new System.Drawing.Point(499, 62);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(251, 20);
@@ -374,6 +375,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
+            this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label4.Location = new System.Drawing.Point(421, 66);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(78, 13);
@@ -504,7 +506,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(799, 314);
+            this.tabPage2.Size = new System.Drawing.Size(799, 373);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Endereço";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -633,7 +635,7 @@
             this.tabPage5.Controls.Add(this.textBox24);
             this.tabPage5.Location = new System.Drawing.Point(4, 22);
             this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(799, 314);
+            this.tabPage5.Size = new System.Drawing.Size(799, 373);
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "Contatos";
             this.tabPage5.UseVisualStyleBackColor = true;
@@ -713,10 +715,26 @@
             this.tabPage4.Controls.Add(this.label27);
             this.tabPage4.Location = new System.Drawing.Point(4, 22);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(799, 334);
+            this.tabPage4.Size = new System.Drawing.Size(799, 373);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "Veículo";
             this.tabPage4.UseVisualStyleBackColor = true;
+            // 
+            // textBox26
+            // 
+            this.textBox26.Location = new System.Drawing.Point(249, 28);
+            this.textBox26.Name = "textBox26";
+            this.textBox26.Size = new System.Drawing.Size(99, 20);
+            this.textBox26.TabIndex = 130;
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.Location = new System.Drawing.Point(214, 32);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(29, 13);
+            this.label30.TabIndex = 131;
+            this.label30.Text = "Ano:";
             // 
             // dataGridView3
             // 
@@ -729,6 +747,22 @@
             this.dataGridView3.Name = "dataGridView3";
             this.dataGridView3.Size = new System.Drawing.Size(514, 187);
             this.dataGridView3.TabIndex = 129;
+            // 
+            // dataGridViewTextBoxColumn3
+            // 
+            this.dataGridViewTextBoxColumn3.HeaderText = "Código";
+            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
+            // 
+            // dataGridViewTextBoxColumn4
+            // 
+            this.dataGridViewTextBoxColumn4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
+            this.dataGridViewTextBoxColumn4.HeaderText = "Modelo";
+            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
+            // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "Cor";
+            this.Column1.Name = "Column1";
             // 
             // comboBox7
             // 
@@ -764,6 +798,33 @@
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Contrato";
             this.tabPage3.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button2.Location = new System.Drawing.Point(695, 337);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(77, 23);
+            this.button2.TabIndex = 113;
+            this.button2.Text = "Contrato";
+            this.button2.UseVisualStyleBackColor = false;
+            // 
+            // textBox19
+            // 
+            this.textBox19.Location = new System.Drawing.Point(12, 275);
+            this.textBox19.Multiline = true;
+            this.textBox19.Name = "textBox19";
+            this.textBox19.Size = new System.Drawing.Size(578, 56);
+            this.textBox19.TabIndex = 112;
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Location = new System.Drawing.Point(12, 254);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(148, 13);
+            this.label23.TabIndex = 102;
+            this.label23.Text = "Informações complementares:";
             // 
             // textBox11
             // 
@@ -810,54 +871,13 @@
             this.groupBox8.TabStop = false;
             this.groupBox8.Text = "Associar";
             // 
-            // label23
+            // comboBox6
             // 
-            this.label23.AutoSize = true;
-            this.label23.Location = new System.Drawing.Point(12, 254);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(148, 13);
-            this.label23.TabIndex = 102;
-            this.label23.Text = "Informações complementares:";
-            // 
-            // dataGridViewTextBoxColumn3
-            // 
-            this.dataGridViewTextBoxColumn3.HeaderText = "Código";
-            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
-            // 
-            // dataGridViewTextBoxColumn4
-            // 
-            this.dataGridViewTextBoxColumn4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
-            this.dataGridViewTextBoxColumn4.HeaderText = "Modelo";
-            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
-            // 
-            // Column1
-            // 
-            this.Column1.HeaderText = "Cor";
-            this.Column1.Name = "Column1";
-            // 
-            // textBox26
-            // 
-            this.textBox26.Location = new System.Drawing.Point(249, 28);
-            this.textBox26.Name = "textBox26";
-            this.textBox26.Size = new System.Drawing.Size(99, 20);
-            this.textBox26.TabIndex = 130;
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.Location = new System.Drawing.Point(214, 32);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(29, 13);
-            this.label30.TabIndex = 131;
-            this.label30.Text = "Ano:";
-            // 
-            // textBox19
-            // 
-            this.textBox19.Location = new System.Drawing.Point(12, 275);
-            this.textBox19.Multiline = true;
-            this.textBox19.Name = "textBox19";
-            this.textBox19.Size = new System.Drawing.Size(578, 56);
-            this.textBox19.TabIndex = 112;
+            this.comboBox6.FormattingEnabled = true;
+            this.comboBox6.Location = new System.Drawing.Point(16, 15);
+            this.comboBox6.Name = "comboBox6";
+            this.comboBox6.Size = new System.Drawing.Size(208, 21);
+            this.comboBox6.TabIndex = 97;
             // 
             // dataGridView4
             // 
@@ -875,14 +895,6 @@
             this.dataGridView4.Size = new System.Drawing.Size(724, 146);
             this.dataGridView4.TabIndex = 130;
             this.dataGridView4.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView4_CellContentClick);
-            // 
-            // comboBox6
-            // 
-            this.comboBox6.FormattingEnabled = true;
-            this.comboBox6.Location = new System.Drawing.Point(16, 15);
-            this.comboBox6.Name = "comboBox6";
-            this.comboBox6.Size = new System.Drawing.Size(208, 21);
-            this.comboBox6.TabIndex = 97;
             // 
             // dataGridViewTextBoxColumn5
             // 
@@ -919,16 +931,6 @@
             // 
             this.Column5.HeaderText = "Desconto";
             this.Column5.Name = "Column5";
-            // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button2.Location = new System.Drawing.Point(695, 337);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(77, 23);
-            this.button2.TabIndex = 113;
-            this.button2.Text = "Contrato";
-            this.button2.UseVisualStyleBackColor = false;
             // 
             // Frm_Mensalista
             // 

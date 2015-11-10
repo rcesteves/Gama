@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SysParkCamadaDeDados
 {
-    class Class2
+    class EstacionamentoDAO
     {
     }
 }
